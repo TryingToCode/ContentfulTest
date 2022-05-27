@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ContentfulTest": {
+      "commandName": "Project",
+      "commandLineArgs": "preview"
+    }
+  }
+}
